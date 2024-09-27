@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **front-end related projects**.
 
-- 🤝 I’m looking for help with **learning MERN stack we development**.
+- 🤝 I’m looking for help with **learning MERN stack web development**.
 
 - 💬 Ask me about **JavaScript, Tailwind CSS**.
 
