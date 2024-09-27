@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulla Al Muhit</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh. I'm currently working on full stack web developmnt. As a web devleoper, I use JavaScript and its frameworks.</h3>
+<h3 align="center">A passionate front-end developer from Dhaka, Bangladesh. I'm currently working on full stack web developmnt. As a web devleoper, I use JavaScript and its frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="mu-senpai" /> </p>
 
