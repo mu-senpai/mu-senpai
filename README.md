@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="mu-senpai" /> </p>
 
-- 🔭 I’m currently working on **MERN stack web development**
+- 🔭 I’m currently working on **MERN stack web development**.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
-- 👯 I’m looking to collaborate on **front-end related projectss**
+- 👯 I’m looking to collaborate on **front-end related projects**.
 
-- 🤝 I’m looking for help with **learning MERN stack development**
+- 🤝 I’m looking for help with **learning MERN stack we development**.
 
-- 💬 Ask me about **JavaScript, Tailwind CSS**
+- 💬 Ask me about **JavaScript, Tailwind CSS**.
 
-- 📫 How to reach me **muhitabdullah279@gmail.com**
+- 📫 How to reach me **muhitabdullah279@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
