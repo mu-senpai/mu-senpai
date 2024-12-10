@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdulla Al Muhit</h1>
-<h3 align="center">A passionate front-end developer from Dhaka, Bangladesh. I'm currently working on full stack web developmnt. As a web devleoper, I use JavaScript and its frameworks.</h3>
+<h3 align="center">A passionate front-end developer from Dhaka, Bangladesh. I'm currently working on full stack web developmnt. As a web devleoper, I use React and its frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="mu-senpai" /> </p>
 
 - 🔭 I’m currently working on **MERN stack web development**.
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Express & MongoDB**.
 
 - 👯 I’m looking to collaborate on **front-end related projects**.
 
 - 🤝 I’m looking for help with **learning MERN stack web development**.
 
-- 💬 Ask me about **JavaScript, Tailwind CSS**.
+- 💬 Ask me about **JavaScript, Tailwind CSS, React**.
 
 - 📫 How to reach me **muhitabdullah279@gmail.com**.
 
