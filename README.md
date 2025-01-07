@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/sVrGYtr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+</div>
+
 <h1 align="center">Hi, I'm Abdulla Al Muhit 👋</h1>
 <h3 align="center">
   A passionate front-end developer from Dhaka, Bangladesh. I'm currently focused on building dynamic and responsive web applications using React and its ecosystem.
