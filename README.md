@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulla Al Muhit</h1>
+<h1 align="center">Hey, I'm Abdulla Al Muhit</h1>
 <h3 align="center">A passionate front-end developer from Dhaka, Bangladesh. I'm currently working on front-end web developmnt. As a web devleoper, I use React and its frameworks.</h3>
 
 ###
