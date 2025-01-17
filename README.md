@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/sVrGYtr/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co/KsXgfWC/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
 </div>
 
 <h1 align="center">Hi, I'm Abdulla Al Muhit 👋</h1>
