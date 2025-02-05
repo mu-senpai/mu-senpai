@@ -15,7 +15,7 @@
 
 ### 🔭 About Me
 - 🌟 **Currently Working On:** MERN stack web development.  
-- 🌱 **Learning Journey:** Exploring Express.js & MongoDB.  
+- 🌱 **Learning Journey:** Exploring Next.js.  
 - 🤝 **Collaboration:** Open to working on front-end-related projects.  
 - 💡 **Seeking Help With:** Deepening my knowledge of the MERN stack.  
 - 💬 **Ask Me About:** JavaScript, Tailwind CSS, React.  
