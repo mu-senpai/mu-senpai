@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://i.ibb.co/KsXgfWC/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png"  />
-</div>
+</div> -->
 
 <h1 align="center">Hi, I'm Abdulla Al Muhit 👋</h1>
 <h3 align="center">
