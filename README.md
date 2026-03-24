@@ -19,7 +19,7 @@
 - 🤝 **Collaboration:** Open to working on front-end-related projects.  
 - 💡 **Seeking Help With:** Deepening my knowledge of the MERN stack.  
 - 💬 **Ask Me About:** JavaScript, Tailwind CSS, React.  
-- 📧 **Reach Me At:** [muhitabdullah279@gmail.com](mailto:muhitabdullah279@gmail.com).  
+- 📧 **Reach Me At:** [abdullamuhit.dev@gmail.com](mailto:abdullamuhit.dev@gmail.com).  
 
 ---
 
