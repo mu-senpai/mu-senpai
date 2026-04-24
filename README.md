@@ -76,7 +76,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/mu-senpai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mu-senpai&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mu-senpai&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 <!-- <p align="center">
