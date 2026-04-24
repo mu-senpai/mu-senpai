@@ -76,9 +76,9 @@
 ## 📊 GitHub Stats & Trophies
 <div align="center">
   <a href="https://github.com/mu-senpai">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mu-senpai&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="mu-senpai's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mu-senpai&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="mu-senpai's GitHub Stats" />
   </a>
-  <img height="180" src="https://streak-stats.demolab.com/?user=mu-senpai&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mu-senpai's GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=mu-senpai&theme=dracula&hide_border=true&cache_seconds=86400" alt="mu-senpai's GitHub Streak" />
 </div>
 <!-- <p align="center">
   <a href="https://github.com/mu-senpai">
@@ -90,7 +90,7 @@
   <img src="https://trophy.ryglcloud.net/?username=mu-senpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdulla Al Muhit's GitHub Trophies" />
 </p> -->
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mu-senpai&theme=tokyonight&radius=10" alt="mu-senpai's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mu-senpai&theme=dracula&radius=10" alt="mu-senpai's Activity Graph" />
 </p>
 
 
