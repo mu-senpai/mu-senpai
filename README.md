@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/KsXgfWC/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Banner" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Abdulla%20Al%20Muhit&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
