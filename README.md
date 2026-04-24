@@ -80,12 +80,12 @@
   </a>
   <img height="180" src="https://streak-stats.demolab.com/?user=mu-senpai&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mu-senpai's GitHub Streak" />
 </div>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mu-senpai">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mu-senpai&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="mu-senpai's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=mu-senpai&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="mu-senpai's GitHub Streak" width="49%" />
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=mu-senpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abdulla Al Muhit's GitHub Trophies" />
 </p> -->
