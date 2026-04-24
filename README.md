@@ -66,20 +66,19 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/mu-senpai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mu-senpai&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
-
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/mu-senpai">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mu-senpai&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="mu-senpai's GitHub Stats" />
   </a>
   <img height="180" src="https://streak-stats.demolab.com/?user=mu-senpai&theme=dracula&hide_border=true&cache_seconds=86400" alt="mu-senpai's GitHub Streak" />
 </div>
+<p align="center">
+  <a href="https://github.com/mu-senpai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mu-senpai&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 <!-- <p align="center">
   <a href="https://github.com/mu-senpai">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mu-senpai&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="mu-senpai's GitHub Stats" />
